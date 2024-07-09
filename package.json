@@ -1,0 +1,14 @@
+{
+  "name": "copilot-demo-starter",
+  "version": "1.0.0",
+  "description": "A simple Node.js project with a webpage that has a blue background and 'Hello World' text.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
