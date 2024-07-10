@@ -1,0 +1,7 @@
+- every function should have comments
+- every class should have comments
+- every method should have comments
+- use camelCase for function names
+- use camelCase for variable names
+- use camelCase for class names
+- add two lines between functions
